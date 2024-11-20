@@ -1,0 +1,108 @@
+body{
+    background-color: rgb(243, 232, 232);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+margin: 0%;
+}
+
+header{
+    
+    background-color: rgb(196, 125, 125);
+    padding: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    height: 20px;
+
+}
+header.h5{
+    color: rgb(12, 12, 12);
+    text-align: center;
+    padding-right: 0%;
+    margin-bottom: 0px;
+   
+}
+nav h5{
+    text-align:center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: rgb(23, 7, 66);
+    
+}
+
+
+h5 a{
+    color: rgb(233, 231, 240);
+}
+
+.navbar{
+    background-color:pink;
+    
+    
+
+font-family: Calibri;
+padding-right: 15px;
+padding-left: 15px;
+
+}
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.logo{
+    font-size: 35px;
+    font-weight: 600px;
+    color: rgb(250, 248, 250);
+    font-family: bold;
+
+}
+li{
+    list-style:georgian;
+    display: inline;
+}
+li a{
+    color: rgb(250, 7, 149);
+    margin-right: 5px;
+    font-family:'Courier New', Courier, monospace;
+    margin-left: 5px;
+    
+}
+
+ul li{
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 0px;
+    
+    
+}
+div a{
+    font-family:serif;
+    font-weight: 1000;
+    font-size: larger;
+
+}
+.logo ,div, a{
+    color: black;
+
+}
+img{
+    height: 300px;
+    width: 800px;
+}
+footer{
+
+        background-color: rgb(228, 134, 134);
+        color: white;
+        padding:10px;
+        text-align: center;
+        margin-left: 0px;
+        margin-right: 0px;
+    
+    
+}
+
+
+
